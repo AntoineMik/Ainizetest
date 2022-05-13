@@ -1,4 +1,4 @@
-FROM main/ainizetest:1
+FROM maiv/ainizetest:1
 
 LABEL Antoine Vignon <vignonantoinem@gmail.com>
 
