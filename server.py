@@ -1,3 +1,4 @@
+from helpers import *
 from crypt import methods
 from flask import Flask
 from flask import jsonify
